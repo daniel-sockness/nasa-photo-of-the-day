@@ -1,0 +1,26 @@
+div.card {
+    max-width: 482px;
+    width: 482px;
+    border: 1px solid gray;
+    border-radius: 3%;
+}
+
+div.border {
+    border-bottom: 1px solid gray;
+    margin-bottom: 10px;
+}
+
+div.cardBody {
+    display: flex;
+    width: 50px;
+    margin-left: 20%;
+}
+
+div.cardBody img {
+    width: 300px;
+}
+
+p.desc {
+    font-size: .6em;
+    text-indent:1em;  
+}
